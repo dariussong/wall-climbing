@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/darius/Desktop/webotscreep/webot/Quadruped robot/controllers/gebot_controller/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/local/webots/include/controller/c -I/usr/local/webots/include/controller/cpp -I/usr/local/include/Eigen -I\"/home/darius/Desktop/webotscreep/webot/Quadruped robot/controllers/gebot_controller/./include\"  -o0 -Wall -g -ggdb   -o CMakeFiles/gebot_controller.dir/src/gebotController.cpp.o -c \"/home/darius/Desktop/webotscreep/webot/Quadruped robot/controllers/gebot_controller/src/gebotController.cpp\"",
+  "file": "/home/darius/Desktop/webotscreep/webot/Quadruped robot/controllers/gebot_controller/src/gebotController.cpp"
+},
+{
+  "directory": "/home/darius/Desktop/webotscreep/webot/Quadruped robot/controllers/gebot_controller/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/local/webots/include/controller/c -I/usr/local/webots/include/controller/cpp -I/usr/local/include/Eigen -I\"/home/darius/Desktop/webotscreep/webot/Quadruped robot/controllers/gebot_controller/./include\"  -o0 -Wall -g -ggdb   -o CMakeFiles/gebot_controller.dir/src/gebotMotioncontrol.cpp.o -c \"/home/darius/Desktop/webotscreep/webot/Quadruped robot/controllers/gebot_controller/src/gebotMotioncontrol.cpp\"",
+  "file": "/home/darius/Desktop/webotscreep/webot/Quadruped robot/controllers/gebot_controller/src/gebotMotioncontrol.cpp"
+}
+]
